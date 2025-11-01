@@ -29,7 +29,7 @@ The trained model (`Accident.keras` ~294 MB) is available on Google Drive:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/accident-detection.git
+git clone https://github.com/vimal-kumar-3/accident-detection.git
 ```
 
 2. Open the Jupyter Notebook:
